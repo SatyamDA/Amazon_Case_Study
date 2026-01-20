@@ -10,7 +10,9 @@ To evaluate regional sales performance and product-market fit across Amazon's br
 
 
 What is the count of distinct product lines in dataset?
+
 Which payment method occours most frequently?
+
 Which product line has highest sales?
 How much revenue is generated each month?
 Which product line generated highest revenue?
